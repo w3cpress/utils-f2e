@@ -1,7 +1,7 @@
 {
   "name": "utils-f2e",
   "version": "1.0.0",
-  "description": "utils tools",
+  "description": "utils-f2e tools",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
