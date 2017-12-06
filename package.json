@@ -1,6 +1,6 @@
 {
   "name": "utils-f2e",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "utils-f2e tools",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,5 @@
   "bugs": {
     "url": "https://github.com/w3cpress/utils-f2e/issues"
   },
-  "homepage": "https://github.com/w3cpress/utils-f2e#readme",
-  "dependencies": {},
-  "devDependencies": {}
+  "homepage": "https://github.com/w3cpress/utils-f2e#readme"
 }
