@@ -1,19 +1,23 @@
 {
   "name": "utils-f2e",
   "version": "1.0.0",
-  "description": "f2e tools",
+  "description": "utils tools",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/w3cpress/utils-f2e"
+    "url": "https://github.com/w3cpress/utils-f2e.git"
   },
   "keywords": [
     "utils",
     "utils-f2e"
   ],
   "author": "Barry",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w3cpress/utils-f2e/issues"
+  },
+  "homepage": "https://github.com/w3cpress/utils-f2e#readme"
 }
