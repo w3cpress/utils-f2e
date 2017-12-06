@@ -1,0 +1,1 @@
+# utils-f2e[![LICENSE MIT](https://img.shields.io/npm/l/express.svg)](https://www.npmjs.com/package/utils-f2e)  前端代码工具库  > 目的：高效的完成前端业务代码在日常的业务开发过程中，会经常用到`日期格式化`、`url参数解析`、`浏览器类型判断`、`对cookie操作`等等常用函数，为避免不同项目多次复制粘贴的麻烦，这里统一封装，并发布到npm，以提高开发效率。
